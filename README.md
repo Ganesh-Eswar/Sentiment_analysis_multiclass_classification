@@ -14,7 +14,7 @@ using text preprocessing, TF-IDF vectorization, feature engineering, and ensembl
 
 ---
 
-# 📌 Problem Statement
+# Problem Statement
 
 A movie review platform wants to automatically analyze user reviews and determine their sentiment category.
 
@@ -28,7 +28,7 @@ This project builds a complete NLP classification pipeline for sentiment predict
 
 ---
 
-# 📂 Dataset Description
+# Dataset Description
 
 ## Files
 
@@ -54,7 +54,7 @@ data/
 
 ---
 
-# 🧠 Project Workflow
+# Project Workflow
 
 ## 1. Data Exploration
 
@@ -80,7 +80,7 @@ Visualizations created using Matplotlib and Seaborn:
 
 ---
 
-# 🧹 Text Preprocessing
+# Text Preprocessing
 
 Implemented multiple text-cleaning strategies.
 
@@ -112,7 +112,7 @@ WordNetLemmatizer
 
 ---
 
-# ⚙️ Feature Engineering
+# Feature Engineering
 
 Additional handcrafted text features were created:
 
@@ -128,7 +128,7 @@ Additional handcrafted text features were created:
 
 ---
 
-# 🔄 Feature Transformation
+# Feature Transformation
 
 ## TF-IDF Vectorization
 
@@ -170,7 +170,7 @@ StandardScaler
 
 ---
 
-# 🤖 Machine Learning Models
+# Machine Learning Models
 
 The following models were implemented and evaluated:
 
@@ -183,7 +183,7 @@ The following models were implemented and evaluated:
 
 ---
 
-# 🏆 Final Ensemble Model
+# Final Ensemble Model
 
 The final model combines:
 
@@ -200,7 +200,7 @@ VotingClassifier(voting='hard')
 
 ---
 
-# 🔍 Hyperparameter Tuning
+# Hyperparameter Tuning
 
 Hyperparameter optimization was performed using:
 
@@ -220,7 +220,7 @@ Evaluation metric:
 
 ---
 
-# 📁 Project Structure
+# Project Structure
 
 ```text
 ├── data/
@@ -241,7 +241,7 @@ Evaluation metric:
 
 ---
 
-# 📌 Key Learning Outcomes
+# Key Learning Outcomes
 
 This project demonstrates:
 
@@ -256,7 +256,7 @@ This project demonstrates:
 
 ---
 
-# 🔮 Future Improvements
+# Future Improvements
 
 Possible future enhancements:
 
@@ -268,7 +268,7 @@ Possible future enhancements:
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 **Ganesh Eswar**
 
