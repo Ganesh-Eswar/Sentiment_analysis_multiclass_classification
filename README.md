@@ -1,4 +1,6 @@
-# 🎬 Movie Review Sentiment Analysis
+# Movie Review Sentiment Analysis
+
+Kaggle Competetion link: https://www.kaggle.com/competitions/mlp-term-3-2025-kaggle-assignment-3/overview
 
 A Natural Language Processing (NLP) and Machine Learning project focused on multi-class sentiment classification of movie reviews.
 
